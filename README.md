@@ -22,3 +22,9 @@ This repository contains seven programs developed primarily to simulate differen
 
 7. **GUITAR**  
    Models the E string of a bass guitar with a detailed analysis of the waveforms produced. This program also explores factors such as string tension and frequency to provide insights into the tonal characteristics.
+
+---
+
+### Acknowledgements
+
+These codes were developed based on the course PH2101 by Prof. Rangeet Bhattacharyya att IISER Kolkata.
