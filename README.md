@@ -5,5 +5,5 @@ iii)forced_damped code simulates forced damped oscillations under various amount
 iv)guitar_string simulates waves produced on a guitar string.
 v)resonance creates plots for resonance curves.
 vi)VIBRATING_STRING file simulates a vibrating string considering beaded masses.
-vii)GUITAR file simulates the E cord of a bass guitar along with detialed analysis.
+vii)GUITAR file simulates the E string of a bass guitar along with detialed analysis.
 
