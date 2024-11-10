@@ -1,4 +1,4 @@
-Wave Simulation Programs
+Wave Simulation Programs:
 This repository contains seven programs developed primarily to simulate different types of wave phenomena. Each program focuses on a specific type of wave or oscillatory motion, offering detailed simulations and analysis.
 
 1. EM_wave
