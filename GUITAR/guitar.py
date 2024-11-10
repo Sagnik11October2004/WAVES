@@ -56,7 +56,6 @@ def simulate(tension, density, length, damping, initial, n_points=500):
     #48000 hz sampling frequency
     t_eval = np.linspace(0, 1, 48000)
 
-    #way faster with 3(2) than with 5(4)
     s = sp.integrate.solve_ivp(func, (0,1), initial, t_eval=t_eval, method="RK23")
     
     print("Solver finished in {0:.2f} s".format(time.time()-st))
