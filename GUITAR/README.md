@@ -56,17 +56,12 @@ Alternatively, instead of pulling and releasing the string, we can quickly strik
 
 The effect of damping on the string's behavior is one of the more interesting things to investigate. We'll look at two important cases: palm muting and harmonics.
 
-Palm muting is an important guitar technique, especially in rock and metal music, which involves the guitarist holding the side of their picking hand against the strings near the bridge to mute them. This can be approximated by a higher value of $\mu$ right next to the bridge:
+Palm muting is an important guitar technique, especially in rock and metal music, which involves the guitarist holding the side of their picking hand against the strings near the bridge to mute them. This can be approximated by a higher value of $\mu$ right next to the bridge.
 
-![image](example_graphs/mu_palm.png)
 
-Playing harmonics is a technique used for any number of string instruments. By lightly muting the string at position $\frac{L}{n}$, every harmonic will be muted except those that have a node at that position. For example, my muting the string at position $\frac{L}{2}$:
+Playing harmonics is a technique used for any number of string instruments. By lightly muting the string at position $\frac{L}{n}$, every harmonic will be muted except those that have a node at that position. For example, my muting the string at position $\frac{L}{2}$.
 
-![image](example_graphs/mu_har2.png)
-
-we can isolate even-numbered harmonics. By muting at $\frac{L}{3}$:
-
-![image](example_graphs/mu_har3.png)
+we can isolate even-numbered harmonics. By muting at $\frac{L}{3}$.
 
 we can isolate harmonics that are multiples of 3.
 
