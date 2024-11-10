@@ -1,4 +1,4 @@
-\textbf{WAVES}
+#WAVES
 This repository contains 7 programs developed primarily to simulate waves. 
 \textbf{EM_wave} code simulates electromagnetic waves when moving from one medium to another. 
 \textbf{circular_motion_shm} code potrays the relation between circular motion and SHM.
