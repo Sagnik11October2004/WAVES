@@ -27,4 +27,4 @@ This repository contains seven programs developed primarily to simulate differen
 
 ### Acknowledgements
 
-These codes were developed based on the course PH2101 by Prof. Rangeet Bhattacharyya att IISER Kolkata.
+These codes were developed based on the course PH2101 by Prof. Rangeet Bhattacharyya at IISER Kolkata.
